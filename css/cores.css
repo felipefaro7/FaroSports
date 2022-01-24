@@ -34,11 +34,14 @@
 }
 
 .borda-preta{
-    border: solid 1px #000000;
+    border: solid #000000;
 }
 
 .borda-preta2{
     border: solid 6px #000000;
+}
+.borda-preta3{
+    border-bottom: 3px solid black;
 }
 
 .borda-azul{
