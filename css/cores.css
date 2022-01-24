@@ -1,0 +1,48 @@
+.bg-ws{
+    background-color: whitesmoke;
+}
+.bg-white {
+    background-color: #ffffff;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.bg-blue {
+    background-color: #5353f8;
+}
+
+.blue {
+    color: #5353f8;
+}
+
+.bg-yellow {
+    background-color: #bebc20;
+}
+
+.yellow {
+    color: #bebc20;
+}
+
+.bg-black {
+    background-color: #201e1e;
+}
+
+.black {
+    color: #201e1e;
+}
+
+.borda-preta{
+    border: solid 1px #000000;
+}
+.borda-azul{
+    border-radius: 5px;
+    border: solid 1px blue;
+}
+.bg-blue{
+    background-color: blue;
+}
+.bg-blue2{
+background-color: cyan;
+}
