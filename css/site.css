@@ -51,6 +51,15 @@ nav ul li a:hover {
   color: rgb(255, 255, 255);
  
 }
+#form-login
+
+
+.form-container{
+  background:#fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px;
+}
 
 #rodapé li{
   color: whitesmoke;
